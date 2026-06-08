@@ -45,16 +45,17 @@ I'm a Software Engineering student at COMSATS experience across machine learning
 #### 🧠 [X News Classifier](https://github.com/dxwood01)
 NLP fake news detection pipeline on 134K tweets — TF-IDF + SVD + 3-layer ANN achieving **97.58% accuracy** and 0.97 F1-score. Deployed as a production FastAPI REST API with confidence-level output.
 
-#### ✈️ TravelMate
+#### ✈️ [TravelMate](https://github.com/dxwood01/X-news-classifier)
 Cross-platform Flutter travel app built with a 4-member team. Firebase Auth + Cloud Firestore, Amadeus Travel API for live flight/hotel search, OpenStreetMap for interactive maps.
 
-#### 🕷️ Scrapy Book Scraper
+#### 🕷️ [Scrapy Book Scraper](https://github.com/dxwood01/scrapy-book-scraper) 
 Full Scrapy pipeline scraping 1000+ books with Oxylabs proxy rotation, ScrapeOps anti-detection middleware, and MySQL storage. Deployed via Scrapyd with real-time health monitoring.
 
-#### 🏛️ Librarium
+#### 🏛️ [Librarium](https://github.com/dxwood01/librarium)
 Distributed library backend exposing a single data layer over REST, gRPC, tRPC, and SOAP simultaneously. Includes a MapReduce analytics module for aggregate reporting.
 
-
+#### ⚙️ [ADAGDS](https://github.com/dxwood01/ADAGDS)
+Adaptive distributed system that analyzes CPU & RAM in real time, spawns parallel workers via `ProcessPoolExecutor`, and generates multiple independent web applications from a single codebase — each driven by its own JSON config. Live build logs streamed to a dashboard over SSE.
 
 ### Connect
 
